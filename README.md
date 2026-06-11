@@ -42,6 +42,35 @@ Potential benefits of addressing these issues include:
 - Increased operational efficiency
 - Improved patient outcomes
 
+## Sample Visualizations
+
+### Average ER Wait Time by Day of Week
+![Average ER Wait Time by Day of Week](images/Average_Emergency_Room_Wait_Time_by_Day_of_Week.png)
+
+### Average Wait Time by Urgency Level
+![Average Wait Time by Urgency Level](images/Average_Wait_Time_by_Urgency_Level.png)
+
+### Average Wait Time by Nurse-to-Patient Ratio
+![Average Wait Time by Nurse-to-Patient Ratio](images/Average_Wait_Time_by_Nurse_to_Patient_Ratio.png)
+
+### Average Wait Time by Patient Outcome
+![Average Wait Time by Patient Outcome](images/Average_Wait_Time_by_Patient_Outcome.png)
+
+### Average Wait Time by Patient Satisfaction Score
+![Average Wait Time by Patient Satisfaction Score](images/Average_Wait_Time_by_Patient_Satisfaction_Score.png)
+
+### Average Wait Time by Specialist Availability
+![Average Wait Time by Specialist Availability](images/Average_Wait_Time_by_Specialist_Availability.png)
+
+### Emergency Room Visits by Time of Day
+![Emergency Room Visits by Time of Day](images/Emergency_Room_Visits_by_Time_of_Day.png)
+
+### Emergency Room Visits by Season
+![Emergency Room Visits by Season](images/Emergency_Room_Visits_by_Season.png)
+
+### Correlation Matrix of ER Operational Metrics
+![Correlation Matrix of ER Operational Metrics](images/Correlation_Matrix_of_ER_Operational_Metrics.png)
+
 ## Project Files
 
 - Emergency Room Wait Time Analysis.ipynb
@@ -49,20 +78,4 @@ Potential benefits of addressing these issues include:
 - Visualizations
 - README.md
 
-### Patient Outcome Analysis
-![Patient Outcome](images/Average_Wait_Time_by_Patient_Outcome.png)
 
-### Patient Satisfaction vs Wait Time
-![Patient Satisfaction](images/Average_Wait_Time_by_Patient_Satisfaction_Score.png)
-
-### Specialist Availability vs Wait Time
-![Specialist Availability](images/Average_Wait_Time_by_Specialist_Availability.png)
-
-### Emergency Room Visits by Time of Day
-![Time of Day](images/Emergency_Room_Visits_by_Time_of_Day.png)
-
-### Emergency Room Visits by Season
-![Season](images/Emergency_Room_Visits_by_Season.png)
-
-### Correlation Matrix of ER Operational Metrics
-![Correlation Matrix](images/Correlation_Matrix_of_ER_Operational_Metrics.png)
