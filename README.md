@@ -74,8 +74,8 @@ Potential benefits of addressing these issues include:
 ## Project Files
 
 - Emergency Room Wait Time Analysis.ipynb
-- Dataset
-- Visualizations
+- er_wait_time_dataset.csv
+- images/
 - README.md
 
 
