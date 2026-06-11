@@ -49,34 +49,20 @@ Potential benefits of addressing these issues include:
 - Visualizations
 - README.md
 
-- ## Sample Visualizations
-
-### Average Wait Time by Day of Week
-![Chart 1](images/Chart%201.png)
-
-### Wait Time by Urgency Level
-![Chart 2](images/chart%202%20.png)
-
-### Wait Time by Patient Outcome
-![Chart 3](images/chart%203%20.png)
-
-### Staffing Impact on Wait Times
-![Chart 4](images/chart%204%20.png)
+### Patient Outcome Analysis
+![Patient Outcome](images/Average_Wait_Time_by_Patient_Outcome.png)
 
 ### Patient Satisfaction vs Wait Time
-![Chart 5](images/chart%205%20.png)
-
-### Peak Demand Analysis
-![Chart 6](images/chart%206%20.png)
-
-### Seasonal Trends
-![Chart 7](images/chart%207%20.png)
+![Patient Satisfaction](images/Average_Wait_Time_by_Patient_Satisfaction_Score.png)
 
 ### Specialist Availability vs Wait Time
-![Chart 8](images/chart%208%20.png)
+![Specialist Availability](images/Average_Wait_Time_by_Specialist_Availability.png)
 
-### Additional Operational Analysis
-![Chart 9](images/chart%209.png)
+### Emergency Room Visits by Time of Day
+![Time of Day](images/Emergency_Room_Visits_by_Time_of_Day.png)
 
-### Correlation Analysis
-![Chart 10](images/chart%2010.png)
+### Emergency Room Visits by Season
+![Season](images/Emergency_Room_Visits_by_Season.png)
+
+### Correlation Matrix of ER Operational Metrics
+![Correlation Matrix](images/Correlation_Matrix_of_ER_Operational_Metrics.png)
